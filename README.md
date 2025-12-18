@@ -73,7 +73,7 @@
 
   <a href="https://fathirdev.vercel.app/" target="_blank">
     <img align="center"
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"
          alt="Website"
          height="30"
          width="40" />
