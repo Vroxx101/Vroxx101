@@ -34,12 +34,12 @@ I’m a **self-taught developer** deeply fascinated by the intersection of **web
 
 ### 💻 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,nodejs,mysql,laravel,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,nodejs,mysql,laravel,react,next" />
 </p>
 
 ### 🔒 Security & Recon Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=burpsuite,nmap,linux,git,github,bash" />
+  <img src="https://skillicons.dev/icons?i=burpsuite,nmap,linux,git,github,bash,paramspider" />
 </p>
 
 ### 🧪 Labs & Practice Platforms
